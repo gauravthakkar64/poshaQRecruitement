@@ -1,0 +1,30 @@
+{
+  "name": "restapidemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "heroku": "heroku --version",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "deasync": "^0.1.12",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0",
+    "mongodb": "^3.1.4",
+    "mongoose": "^5.0.1",
+    "nodemailer": "^4.6.4",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^1.14.11",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
