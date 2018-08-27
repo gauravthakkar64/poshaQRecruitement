@@ -71,7 +71,7 @@ Recruitment Process for year 2018
   ### All Endpoints are tested using the postman for proper work flow.
   
   
-  **NOTE:- Database dump is not provided.
+  **NOTE:- Database dump is not provided.Database is on online platform.so, it will work fine.
   
  
   
